@@ -1,5 +1,5 @@
 # NER-Hindi-English-Tweets
-In this project, I defined suitable features for annotated corpus for Hindi-English CodeMixed and developing machine learning models like decision tree, CFR, and LSTM on our annotated corpus for the NER task.
+In this project, I defined suitable features for annotated corpus for Hindi-English CodeMixed and developing machine learning models like decision tree, CRF, and LSTM on our annotated corpus for the NER task.
 
 
 NER-Tags
